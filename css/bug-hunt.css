@@ -115,7 +115,7 @@ main {
 
 /* Bug 1: The badge flies to the corner of the PAGE instead of the card. */
 .card-a {
-  
+  position: relative;
 }
 
 
